@@ -9,13 +9,16 @@
 
 </div>
 
-#Installation
-Create your bot, using BotFather, more information you can [find here](https://core.telegram.org/bots) 
-During creation, you will get bot token/
+#### Quick start:
+```bash
+cd && git clone https://github.com/cryptobtcbuyer/tg_wallet_bot.git && cd tg_wallet_bot
+nano $HOME/tg_wallet_bot/py.py
+nano $HOME/tg_wallet_bot/hu.py
+# Replace the "YOUR_ACCESS_KEY" with the token that you will receive from BotFather. More information you can find here https://core.telegram.org/bots. 
+python3  py.py
+```
 
-
-### Version v.0.0.1
-
+#### Version v.0.0.1
 ```bash
 soon:
 — new wallet management,
