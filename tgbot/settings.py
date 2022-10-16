@@ -1,0 +1,11 @@
+from aiogram.types import ReplyKeyboardRemove,ReplyKeyboardMarkup,KeyboardButton,InlineKeyboardMarkup,InlineKeyboardButton
+add_koshel = InlineKeyboardButton('+ Add wallet',callback_data='add_koshel')
+my_koshel = InlineKeyboardButton('Wallets',callback_data='my_koshel')
+balance = InlineKeyboardButton('View balance',callback_data='balance')
+delete = InlineKeyboardButton('Delete wallet',callback_data='delete')
+start2 = InlineKeyboardMarkup(resize_keyboard=True).add(add_koshel).add(my_koshel)
+start1 = InlineKeyboardMarkup(resize_keyboard=True).add(add_koshel).add(my_koshel).add(delete)
+addres = InlineKeyboardMarkup(resize_keyboard=True).add(balance)
+koshel = InlineKeyboardMarkup(resize_keyboard=True).add('Menu')
+menu_button = InlineKeyboardButton(text='Menu',callback_data='menu')#.add('Menu')
+menu = InlineKeyboardMarkup(resize_keyboard=True).add(menu_button)
