@@ -5,8 +5,9 @@
  👛 Simple and convenient monitoring of the balance of your Haqq wallet.  <br>
 🔔 Receive instant notifications about balance changes. </p>
 
+##   [haqqtools.pro](https://haqqtools.pro/) 
 
-## Launch bot: [@haqq_wallet_bot](https://t.me/haqq_wallet_bot)  
+### Launch bot: [@haqq_wallet_bot](https://t.me/haqq_wallet_bot)  
 
 </div>
 
