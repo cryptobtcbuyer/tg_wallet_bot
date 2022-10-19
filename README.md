@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Telegram Wallet Bot </h1>
+  <h1> Telegram Wallet Bot (beta)</h1>
  <h3>  Track the movement of funds and the balance of your wallet</h3>
  <p>
  👛 Simple and convenient monitoring of the balance of your Haqq wallet.  <br>
